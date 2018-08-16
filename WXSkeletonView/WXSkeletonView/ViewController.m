@@ -21,6 +21,7 @@
     
     NSLog(@"%@", self.sview.isSkeleton.boolValue ? @"YES":@"NO");
     NSLog(@"%@", @"123");
+    NSLog(@"234");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
