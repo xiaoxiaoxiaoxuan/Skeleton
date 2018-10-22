@@ -20,6 +20,7 @@
     [super viewDidLoad];
     
     NSLog(@"%@", self.sview.isSkeleton.boolValue ? @"YES":@"NO");
+    NSLog(@"test");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
